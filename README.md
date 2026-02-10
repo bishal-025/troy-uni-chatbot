@@ -39,4 +39,5 @@ To contribute to this project, please follow these steps:
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact the project maintainer at your_email@example.com.
+For any inquiries, please contact the project maintainer at bishal1.awasthi@gmail
+.com.

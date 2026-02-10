@@ -8,26 +8,6 @@ This project is a chatbot designed for Troy University students to assist with i
 - **Event Updates**: Stay updated with the latest university events and activities.
 - **Service Assistance**: Inquire about various student services such as counseling, advising, and registration.
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/bishal-025/troy-uni-chatbot.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd troy-uni-chatbot
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-## Usage
-Run the application using:
-```bash
-node app.js
-```
-
 ## Contribution Guidelines
 To contribute to this project, please follow these steps:
 1. Fork the repository.
